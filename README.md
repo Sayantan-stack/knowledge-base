@@ -1,7 +1,7 @@
 This repository contains tutorials of [RunAbove Knowledge
 base](https://community.runabove.com/kb).
 
-# How to write a how-to guide?
+# How to write a "how-to" guide?
 
 Simply fork the runabove/knowledge-base project on our GitHub page. Create a
 new page under [/en/_posts](en/_posts) and using markdown to write your how-to
@@ -18,7 +18,7 @@ account:
  guide’s intro.
  * Any usage you encourage is completely legal and respects good practices and
  security standards.
- * Content is your own and doesn’t include any copyrighted content (including
+ * Content is your own and doesn’t include any copyrighted content (including the
  images). Your proposal should be exclusively published on our website.
 
 Please also keep in mind that we’re mainly interested in how-to guides on
